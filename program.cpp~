@@ -1,0 +1,7 @@
+#include<iostream.h>
+#include<stdio.h>
+
+main()
+{
+  cout<<"www.linux.pl"<<endl;
+}
